@@ -12,15 +12,13 @@ from netifaces import *
 from pyperclip import copy
 
 banner = '''
-
    _____ __         ________       
   / ___// /_  ___  / / / __ \__  __
   \__ \/ __ \/ _ \/ / / /_/ / / / /
  ___/ / / / /  __/ / / ____/ /_/ / 
 /____/_/ /_/\___/_/_/_/    \__, /  
                           /____/   
-
-
+                          
 '''
 
 header = Template(
