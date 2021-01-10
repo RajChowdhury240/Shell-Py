@@ -25,9 +25,9 @@ python3 setup.py install
 python3 shellpy.py
 ```
 
-## Screenshots
+## Previews
 
-Screenshot 1             |  Screenshot 2
+Preview 1             |  Preview 2
 :-----------------------:|:-----------------------:
 ![Screenshot1](https://i.imgur.com/tQIsRrP.png)  |  ![Screenshot2](https://i.imgur.com/Jo7bhnV.png)
 
