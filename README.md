@@ -22,7 +22,7 @@ python3 setup.py install
 ## Run
 
 ```
-python3 shellpy.py
+python3 shell.py
 ```
 
 ## Previews
