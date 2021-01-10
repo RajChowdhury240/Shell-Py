@@ -132,7 +132,7 @@ def select_command():
 
 
 def select_shell():
-    if command != 'windows_powershell' and command != 'unix_bash' and command != 'unix_telnet':
+    if command != 'windows-powershell' and command != 'bash' and command != 'telnet':
         print(header.safe_substitute(text='SELECT SHELL'))
         global shell
         shell = shells[(select(shells))]
