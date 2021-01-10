@@ -1,5 +1,7 @@
 # ShellPy
 
+![RevShell](https://i.imgur.com/DZuLkH9.png)
+
 A Tiny Python3 Based Tool for generating reverse shells easily without typing. 
 It automates the boring stuff like URL encoding the command and setting up a listener.
 
@@ -32,5 +34,5 @@ Preview 1             |  Preview 2
 ![Preview 1](https://i.imgur.com/sUIzKAp.png)  |  ![Preview 2](https://i.imgur.com/31pjpeW.png)
 
 
-![RevShell](https://i.imgur.com/DZuLkH9.png)
+
 
