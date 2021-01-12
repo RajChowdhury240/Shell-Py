@@ -32,7 +32,7 @@ fail = Template(Style.BRIGHT + '[' + Fore.RED + ' - ' + Fore.RESET + '] ' + Styl
 
 ip = port = shell = command = ''
 
-choices = ['no', 'yes']
+choices = ['No', 'Yes']
 shells = ['/bin/sh', '/bin/bash', '/bin/zsh', '/bin/ksh', '/bin/tcsh', '/bin/dash']
 commands = sorted([command for command in os.listdir('commands')])
 
