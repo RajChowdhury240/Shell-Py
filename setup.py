@@ -8,4 +8,3 @@ setup(
                 'URL encoding the command and setting up a listener.',
     install_requires=['pyperclip', 'colorama', 'readchar', 'netifaces']
 )
-
