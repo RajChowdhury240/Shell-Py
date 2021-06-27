@@ -1,5 +1,3 @@
-
-
 import ipaddress
 import os
 import urllib.parse
