@@ -51,7 +51,7 @@ def is_valid(ip_address):
 
 
 def exit_program():
-    print('\n' + success.safe_substitute(text='Goodbye Mr.Robot !!'))
+    print('\n' + success.safe_substitute(text='Goodbye RootRaj !!'))
     exit(0)
 
 
