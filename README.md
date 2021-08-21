@@ -7,7 +7,7 @@ A Tiny Python3 Based Tool for generating reverse shells easily without typing.
 It automates the boring stuff like URL encoding the command and setting up a listener.
 
 
-## Installing Dependencies
+### Installing Dependencies
 
 ### The Tool has 4 dependencies:
 
@@ -24,7 +24,7 @@ python3 setup.py install
 ```
 
 
-## Run
+### Run
 
 ```
 python3 shell.py
