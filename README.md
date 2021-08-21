@@ -30,8 +30,8 @@ python3 setup.py install
 python3 shell.py
 ```
 
-## Previews
+## Demo
 
-Preview 1             |  Preview 2
+Demo 1             |  Demo 2
 :-----------------------:|:-----------------------:
 ![Preview 1](https://i.imgur.com/sUIzKAp.png)  |  ![Preview 2](https://i.imgur.com/31pjpeW.png)
