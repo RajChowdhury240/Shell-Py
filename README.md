@@ -34,4 +34,4 @@ python3 shell.py
 
 Demo 1             |  Demo 2
 :-----------------------:|:-----------------------:
-![Preview 1](https://i.imgur.com/sUIzKAp.png)  |  ![Preview 2](https://imgur.com/a/M7HGi2t)
+![Preview 1](https://i.imgur.com/sUIzKAp.png)  |  ![Preview 2](https://i.imgur.com/GiCUlnj.png)
