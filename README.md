@@ -9,12 +9,13 @@ It automates the boring stuff like URL encoding the command and setting up a lis
 
 ## Installing Dependencies
 
-The Tool has 4 dependencies:
+### The Tool has 4 dependencies:
 
-*   [pyperclip](https://pypi.org/project/pyperclip/)
-*   [colorama](https://pypi.org/project/colorama/)
-*   [readchar](https://pypi.org/project/readchar/)
-*   [netifaces](https://pypi.org/project/netifaces/)
+
+*   [pyperclip]
+*   [colorama]
+*   [readchar]
+*   [netifaces]
 
 You can install these by typing:
 
