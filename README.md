@@ -17,7 +17,7 @@ It automates the boring stuff like URL encoding the command and setting up a lis
 *   Readchar
 *   Netifaces
 
-You can install these by typing:
+##### You can install these by typing:
 
 ```
 python3 setup.py install
