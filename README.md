@@ -10,7 +10,6 @@ It automates the boring stuff like URL encoding the command and setting up a lis
 
 ### The Tool has 4 dependencies:
 ```
-
 *   Pyperclip
 *   Colorama
 *   Readchar
