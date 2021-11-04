@@ -1,14 +1,14 @@
 # ShellPy
 
 ```
-A Tiny Python3 Based Tool for generating reverse shells easily without typing. 
-It automates the boring stuff like URL encoding the command and setting up a listener.
+A Tiny Python3 Based Tool for generating reverse shells very smoothly without major efforts. 
+It has other features like URL-Encoding & a Listener & TTY support too.
 ```
 
 
-### Installing Dependencies
+### Dependencies
 
-### The Tool has 4 dependencies:
+### 4 dependencies:
 ```
 *   Pyperclip
 *   Colorama
@@ -22,7 +22,7 @@ python3 setup.py install
 ```
 
 
-##### Run
+##### Let's Rock & Roll
 
 ```
 python3 shell.py
