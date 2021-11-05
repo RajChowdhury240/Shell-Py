@@ -1,7 +1,7 @@
 # ShellPy
 
 ```
-A Tiny Python3 Based Tool for generating reverse shells very smoothly without major efforts. 
+Tool for generating reverse shells very smoothly without major efforts. 
 It has other features like URL-Encoding & a Listener & TTY support too.
 ```
 
