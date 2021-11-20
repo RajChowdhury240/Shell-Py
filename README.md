@@ -27,7 +27,6 @@ python3 setup.py install
 ```
 python3 shell.py
 ```
-
 ### Demo
 
 Demo 1             |  Demo 2
